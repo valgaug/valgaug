@@ -14,11 +14,11 @@ I'm a Full Stack Web Developer passionate in developing creative and complex App
 
 <h2>Professional interests</h2>
 
-[![Maths Badge](https://img.shields.io/badge/Mathematics-ED225D?style=for-the-badge&logoColor=white&labelColor=black)](#) [![Algo Badge](https://img.shields.io/badge/-Algorithms-F0DB4F?style=for-the-badge&logoColor=F0DB4F)](#) [![DS Badge](https://img.shields.io/badge/Data%20Structures-4EA94B?style=for-the-badge)](#) [![BE Badge](https://img.shields.io/badge/-Back%20end-007acc?style=for-the-badge)](#) [![3D Badge](https://img.shields.io/badge/3d-FF6600?style=for-the-badge)](#)
+[![Maths Badge](https://img.shields.io/badge/Mathematics-black?style=for-the-badge&logoColor=white&labelColor=black)](#) [![Algo Badge](https://img.shields.io/badge/-Algorithms-black?style=for-the-badge&logoColor=F0DB4F)](#) [![DS Badge](https://img.shields.io/badge/Data%20Structures-black?style=for-the-badge)](#) [![BE Badge](https://img.shields.io/badge/-Back%20end-black?style=for-the-badge)](#) [![3D Badge](https://img.shields.io/badge/3d-black?style=for-the-badge)](#)
 
 <h2>Personal interests</h2>
 
-[![Surfing Badge](https://img.shields.io/badge/-Surfing-F0DB4F?style=for-the-badge&logoColor=F0DB4F)](#) [![Nature Badge](https://img.shields.io/badge/Nature-4EA94B?style=for-the-badge)](#) [![Teaching Badge](https://img.shields.io/badge/-Teaching-007acc?style=for-the-badge)](#) [![Sustainability Badge](https://img.shields.io/badge/Sustainability-ED225D?style=for-the-badge&logoColor=white&labelColor=black)](#) [![Equality Badge](https://img.shields.io/badge/Equality-404D59?style=for-the-badge)](#)
+[![Surfing Badge](https://img.shields.io/badge/-Surfing-black?style=for-the-badge&logoColor=F0DB4F)](#) [![Nature Badge](https://img.shields.io/badge/Nature-black?style=for-the-badge)](#) [![Teaching Badge](https://img.shields.io/badge/-Teaching-black?style=for-the-badge)](#) [![Sustainability Badge](https://img.shields.io/badge/Sustainability-black?style=for-the-badge&logoColor=white&labelColor=black)](#) [![Equality Badge](https://img.shields.io/badge/Equality-black?style=for-the-badge)](#)
 
 <br />
 
