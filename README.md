@@ -22,4 +22,8 @@ I'm a Full Stack Web Developer passionate in developing creative and complex App
 
 <br />
 
+<div align = 'center'>
+
 ![Valentin's github stats](https://github-readme-stats.vercel.app/api?username=valgaug&count_private=true&theme=swift&hide=stars,issues&show_icons=true&count_private=true)
+
+</div>
