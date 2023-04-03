@@ -10,6 +10,8 @@ I'm a Full Stack Web Developer passionate in developing creative and complex App
 
 <h2>Professional interests</h2>
 <p>Mathematics | Algorithms | Data Structures | Back-End | 3D</p>
+<h2>Personal interests</h2>
+<p>Surfing | Nature | Teaching | Sustainability | Equality</p>
 <br />
 
 ![Valentin's github stats](https://github-readme-stats.vercel.app/api?username=valgaug&count_private=true&theme=swift&hide=stars,issues&show_icons=true&count_private=true)
