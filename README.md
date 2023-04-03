@@ -2,7 +2,7 @@
 
 I'm a Full Stack Web Developer passionate in developing creative and complex Apps which will have a positive impact on people and the planet.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white&align=center)](https://www.linkedin.com/in/valentin-gaugain/) [![Mail Badge](https://img.shields.io/badge/-Email-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:valentin.gaugain@hotmail.fr)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentin-gaugain/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valentin.gaugain@hotmail.fr)
 
 <h2>Top Technologies</h2>
 
