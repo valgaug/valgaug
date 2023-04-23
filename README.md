@@ -18,7 +18,7 @@ I'm a Full Stack Web Developer passionate in developing creative and complex App
 
 <h2>Personal interests</h2>
 
-[![Surfing Badge](https://img.shields.io/badge/-Surfing-black?style=for-the-badge&logoColor=F0DB4F)](#) [![Nature Badge](https://img.shields.io/badge/Nature-black?style=for-the-badge)](#) [![Teaching Badge](https://img.shields.io/badge/-Teaching-black?style=for-the-badge)](#) [![Sustainability Badge](https://img.shields.io/badge/Sustainability-black?style=for-the-badge&logoColor=white&labelColor=black)](#) [![Equality Badge](https://img.shields.io/badge/Equality-black?style=for-the-badge)](#)
+[![Surfing Badge](https://img.shields.io/badge/-Surfing-black?style=for-the-badge&logoColor=F0DB4F)](#) [![Nature Badge](https://img.shields.io/badge/Nature-black?style=for-the-badge)](#) [![Teaching Badge](https://img.shields.io/badge/-Teaching-black?style=for-the-badge)](#) [![Sustainability Badge](https://img.shields.io/badge/Sustainability-black?style=for-the-badge&logoColor=white&labelColor=black)](#) [![Equality Badge](https://img.shields.io/badge/Equity-black?style=for-the-badge)](#)
 
 <br />
 
